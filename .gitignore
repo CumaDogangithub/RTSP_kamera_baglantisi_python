@@ -2,7 +2,7 @@
 yolovenv/
 
 # Eğitim çıktıları ve model ağırlıkları
-runs/
+#runs/
 *.pt
 
 # Roboflow export notları
