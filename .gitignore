@@ -3,7 +3,7 @@ yolovenv/
 
 # Eğitim çıktıları ve model ağırlıkları
 #runs/
-*.pt
+#*.pt
 
 # Roboflow export notları
 README.dataset.txt
