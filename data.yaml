@@ -1,0 +1,13 @@
+train: C:\Users\Cuma\Downloads\cuma-face-v2.v1i.yolov8\train\images
+val: C:\Users\Cuma\Downloads\cuma-face-v2.v1i.yolov8\valid\images
+test: C:\Users\Cuma\Downloads\cuma-face-v2.v1i.yolov8\test\images
+
+nc: 1
+names: ['cuma-face-v2']
+
+roboflow:
+  workspace: cuma-dogan
+  project: cuma-face-v2
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/cuma-dogan/cuma-face-v2/dataset/1
