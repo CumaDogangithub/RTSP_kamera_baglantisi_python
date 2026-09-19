@@ -1,6 +1,3 @@
-# RTSP_tapo_kamera_baglanti
-Python dilinde RTSP protokolü ile uzaktan tapo marka kamera bağlantısı ve nesne tespiti
-
 # cuma-face-v2
 
 YOLOv8 ile tek sınıflı yüz tespiti. Roboflow'da etiketlenen veri setiyle eğitilen model, bir IP kameranın RTSP akışında gerçek zamanlı çalışır.

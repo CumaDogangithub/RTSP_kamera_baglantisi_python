@@ -9,7 +9,7 @@ model = YOLO(r"C:\Users\Cuma\Downloads\cuma-face-v2.v1i.yolov8\runs\detect\cuma-
 # Kamera Bağlantısı
 USERNAME = "..."
 PASSWORD = "..."
-CAMERA_IP = "192.168.??.??"
+CAMERA_IP = "192.168.1.100"
 RTSP_PORT = "554"
 
 rtsp_url = f"rtsp://{USERNAME}:{PASSWORD}@{CAMERA_IP}:{RTSP_PORT}/stream1"
@@ -54,3 +54,5 @@ while cap.isOpened():
 
 cap.release()
 cv2.destroyAllWindows()
+
+

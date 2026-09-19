@@ -1,0 +1,25 @@
+# Sanal ortam
+yolovenv/
+
+# Eğitim çıktıları ve model ağırlıkları
+runs/
+*.pt
+
+# Roboflow export notları
+README.dataset.txt
+README.roboflow.txt
+
+# Önbellek
+*.cache
+
+# Ortam değişkenleri
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store
